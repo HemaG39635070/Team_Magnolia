@@ -14,4 +14,14 @@ Here are few examples:
 3. "KFC" - "It's finger lickin' good!"
 These phrases are most heard of and once heard or seen, are settled in once mind. Hence, the most important factor for marketing is reach of the advertisement. Identifying the brands market and reaching out to the entire market is important to display brand's presence.
 
-Through this project, we aim to find out the effect of different factors on the reach in youtube, so that we can estimate if a brand collaboration with certain channel would meet the reach goals or not. 
+Through this project, we aim to find out the effect of different factors on the reach in youtube, so that we can estimate if a brand collaboration with certain channel would meet the reach goals or not. The dataset containing reach impact factors like, subscribers count, has_subtitles, age limit restriction, live content, comments enabled, etc. has been obtained from kaggle. 
+
+Link to the dataset: https://www.kaggle.com/datasets/adampsu/youtube-dislikes-info/code
+
+SMART question:
+
+
+
+Github repo: 
+
+Modelling Method: Linear regression to predict the reach count.
