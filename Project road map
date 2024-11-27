@@ -10,6 +10,8 @@
         1. Factors through out the time (Factors to colors, x - axis - date, y - axis - % videos count)
     2. Scatter plots
     3. Stacked bar charts
-3. Modelling: Multy regression model. 
+3. Modelling:
+    1. Test - train split
+    2. Multi variate regression model. (https://www.geeksforgeeks.org/multivariate-regression/) 
 4. Model testing
 5. Conclusion:
