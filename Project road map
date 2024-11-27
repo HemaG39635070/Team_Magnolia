@@ -1,0 +1,15 @@
+1. Data cleaning: 
+    1. Outlier removal (box plot)
+    2. Identify and remove negative values 
+    3. Data type conversions
+    4. Standardize the data
+    5. Date column standardization
+    6. 
+2. EDA:
+    1. Correlation plots 
+        1. Factors through out the time (Factors to colors, x - axis - date, y - axis - % videos count)
+    2. Scatter plots
+    3. Stacked bar charts
+3. Modelling
+4. Model testing
+5. Conclusion:
